@@ -1,4 +1,4 @@
-# msg-automatizada-python
+# msg-automatizada
 
 Usando a biblioteca pyautogui para a automação de mensagens com Python.
 
