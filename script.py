@@ -12,3 +12,4 @@ for i in range (10):
     pg.write(a)
     pg.press('enter')
     time.sleep(1.3)
+    
