@@ -5,7 +5,7 @@ import time
 msg = ["Bombarda", "Avada Kedavra", "Priori Incantatem", "Expecto Patronum"]
 
 # Tempo de espera para o disparo
-time.sleep(5)
+time.sleep(4)
 
 for i in range(10):
     a = random.choice(msg)
