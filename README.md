@@ -8,6 +8,6 @@ https://pyautogui.readthedocs.io/en/latest/install.html
 
 ## Como usar
 
-- Execue o programa
+- Execute o programa
 - Vá para o aplicativo de mensagens
 - Clique no campo de digitação e aguarde o `sleep()` definido
